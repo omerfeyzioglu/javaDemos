@@ -8,7 +8,7 @@ public class Main {
 		boolean varMi = false;
 		for (int sayi : sayilar) {
 			if (sayi == aranacak) {
-
+				varMi= true ;
 				break;
 			}
 		}
